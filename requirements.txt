@@ -1,0 +1,15 @@
+numpy==1.19
+scikit-image==0.19.1
+scipy==1.8.0
+pillow==9.0.1
+opencv-python==4.4.0.40
+tqdm==4.64.0
+moviepy==1.0.3
+pyyaml
+matplotlib
+scikit-learn
+lpips
+kornia
+focal_frequency_loss
+tensorboard
+transformers
